@@ -18,12 +18,6 @@ React front-end full operating dynamic and responsive E-Commerce shop including 
 - [Repo](https://github.com/yonatankumsa/furniture-e-commerce "Furniture E-commerce Repo")
 - [Live](https://almogwer-furniture-ecommerce.netlify.app/ "Live View")
 
-## Dummy user
-
-```
-dummy@user.com
-Aadummyuser!
-```
 
 ## Screenshots & Animation
 
@@ -33,9 +27,8 @@ Aadummyuser!
 
 ## Author
 
-- [Almogwer](https://github.com/almogwer)
-- [Mail](mailto:Almogish@gmail.com?Subject=Hi% "Hi!")
-- [Linkedin](https://www.linkedin.com/in/almogwertzberger/)
+- [Yonatan Kumsa](https://github.com/almogwer)
+- [Linkedin](https://www.linkedin.com/in/yonatan-kumsa/)
 
 ## Styled Components
 
@@ -44,18 +37,6 @@ Aadummyuser!
 ```jsx
 import styled from "styled-components";
 
-const ReactComponent = () => {
- return <Wrapper>
- {some content}
- </Wrapper>
-}
-
-
-const Wrapper = styled.htmlElement`
-write your styles here
-`
-export default ReactComponent
-```
 
 ## React Icons
 

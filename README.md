@@ -12,16 +12,6 @@ React front-end full operating dynamic and responsive E-Commerce shop including 
 
 # npm-start
 
-[npm start](https://docs.npmjs.com/cli/v7/commands/npm-start)
-
-```
-npm install
-```
-
-```
-npm-start -g
-
-```
 
 ## Links
 

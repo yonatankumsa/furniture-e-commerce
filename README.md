@@ -15,7 +15,7 @@ React front-end full operating dynamic and responsive E-Commerce shop including 
 
 ## Links
 
-- [Repo](https://github.com/AlmogWer/furniture-e-commerce "Furniture E-commerce Repo")
+- [Repo](https://github.com/yonatankumsa/furniture-e-commerce "Furniture E-commerce Repo")
 - [Live](https://almogwer-furniture-ecommerce.netlify.app/ "Live View")
 
 ## Dummy user

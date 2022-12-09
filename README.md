@@ -2,10 +2,7 @@
 
 ## Project Description
 
-React front-end full operating dynamic and responsive E-Commerce shop including payment connection (stripe)
-
-Welcome to the furniture website, built using the latest technologies including React, HTML, and CSS. I have integrated a furniture API to provide a wide selection of high-quality furniture pieces for you to choose from. Our checkout process is secure and seamless thanks to the integration of Stripe. Shop with confidence and find the perfect piece to furnish your space. 
-
+As a skilled web developer, I am proud to present my latest project: a fully-functional E-Commerce website built using React, HTML, and CSS. This site showcases my ability to create a dynamic and responsive user experience, as well as my expertise in integrating APIs and third-party services such as the furniture API and Stripe for checkout. I am confident that this project demonstrates my proficiency in front-end development and would make a valuable addition to any employer's team. Thank you for considering my work.
 ## Built with
 
 - HTML

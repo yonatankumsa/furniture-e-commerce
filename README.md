@@ -2,7 +2,7 @@
 
 ## Project Description
 
-As a skilled web developer, I am proud to present my latest project: a fully-functional E-Commerce website built using React, HTML, and CSS. This site showcases my ability to create a dynamic and responsive user experience, as well as my expertise in integrating APIs and third-party services such as the furniture API and Stripe for checkout. I am confident that this project demonstrates my proficiency in front-end development and would make a valuable addition to any employer's team. Thank you for considering my work.
+As a skilled web developer, I am proud to present my latest project: a fully-functional E-Commerce website built using React, HTML, and CSS. This site showcases my ability to create a dynamic and responsive user experience, as well as my expertise in integrating APIs and third-party services such as the furniture API, Auth0 for authentication and Stripe for checkout. I am confident that this project demonstrates my proficiency in front-end development and would make a valuable addition to any employer's team. Thank you for considering my work.
 ## Built with
 
 - HTML

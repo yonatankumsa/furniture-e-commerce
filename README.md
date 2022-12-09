@@ -4,6 +4,8 @@
 
 React front-end full operating dynamic and responsive E-Commerce shop including payment connection (stripe)
 
+Welcome to the furniture website, built using the latest technologies including React, HTML, and CSS. I have integrated a furniture API to provide a wide selection of high-quality furniture pieces for you to choose from. Our checkout process is secure and seamless thanks to the integration of Stripe. Shop with confidence and find the perfect piece to furnish your space. 
+
 ## Built with
 
 - HTML

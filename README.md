@@ -13,8 +13,6 @@ As a skilled web developer, I am proud to present my latest project: a fully-fun
 
 
 ## Links
-
-- [Repo](https://github.com/yonatankumsa/furniture-e-commerce "Furniture E-commerce Repo")
 - [Live](https://almogwer-furniture-ecommerce.netlify.app/ "Live View")
 
 

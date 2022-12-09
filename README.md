@@ -30,18 +30,6 @@ React front-end full operating dynamic and responsive E-Commerce shop including 
 - [Yonatan Kumsa](https://github.com/almogwer)
 - [Linkedin](https://www.linkedin.com/in/yonatan-kumsa/)
 
-## Styled Components
-
-[Styled-Components - Main Docs](https://styled-components.com/)
-
-```jsx
-import styled from "styled-components";
-
-
-## React Icons
-
-[React Icons - Main Docs](https://react-icons.github.io/react-icons/)
-
 ## React Version
 
 ```
@@ -51,9 +39,6 @@ import styled from "styled-components";
 ```
 
 - [react-router-dom - Main Docs](https://reactrouter.com/web/guides/quick-start)
-
-- <Switch> renders the first child <Route> that matches
-- A <Route path="*"> always matches
 
 ## Furniture API
 
@@ -65,34 +50,9 @@ import styled from "styled-components";
 - [Stripe - Main Docs](https://stripe.com/docs/payments?payments=popular)
 - [Stripe - React ](https://stripe.com/docs/stripe-js/react)
 
-## Auth0
-
-- [Auth0 - Main Docs](https://auth0.com/)
-- [React SDK Docs](https://auth0.com/docs/libraries/auth0-react)
-- [REACT SDK API Docs](https://auth0.github.io/auth0-react/)
-
-## Env vars
-
-- [dotenv - Main Docs](https://www.npmjs.com/package/dotenv)
-
-- REACT_APP_AUTH_DOMAIN=
-- REACT_APP_CLIENT_ID=
-- REACT_APP_STRIPE_PUBLIC_KEY=
-- REACT_APP_STRIPE_SECRET_KEY=
-
-```
-
-npm install dotenv@8.2.0
-
-```
-
 ## Deployment
 
 [Netlify](https://www.netlify.com/)
 
-```
 
-npm install netlify-cli -D
-
-```
 
